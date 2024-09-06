@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725533337 source:c:\users\ycode\desktop\first-repo-at-youcode\exercice-chaine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
